@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026650994328",
+    "project_id": "my-firstregistration-project",
+    "storage_bucket": "my-firstregistration-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026650994328:android:a8bd2ebe93194cd1a882ed",
+        "android_client_info": {
+          "package_name": "com.example.registration_app_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVqEjuvw2vHL857RoBDBsypgMMEyThKew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
